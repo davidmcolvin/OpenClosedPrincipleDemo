@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{CF98CE84-C073-4B3A-8A64-20BDE624675D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPLibrary", "OCPLibrary\OCPLibrary.csproj", "{1ABAB7BA-702B-4973-A1C5-2B6514704533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF98CE84-C073-4B3A-8A64-20BDE624675D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF98CE84-C073-4B3A-8A64-20BDE624675D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF98CE84-C073-4B3A-8A64-20BDE624675D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF98CE84-C073-4B3A-8A64-20BDE624675D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABAB7BA-702B-4973-A1C5-2B6514704533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABAB7BA-702B-4973-A1C5-2B6514704533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABAB7BA-702B-4973-A1C5-2B6514704533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABAB7BA-702B-4973-A1C5-2B6514704533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58527835-4B58-4106-8629-9C311B4B2F74}
+	EndGlobalSection
+EndGlobal
